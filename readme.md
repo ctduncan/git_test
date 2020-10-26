@@ -1,1 +1,1 @@
-This is Coady's furst git project
+This is Coady's first git project
